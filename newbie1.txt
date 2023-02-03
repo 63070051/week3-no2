@@ -1,2 +1,3 @@
 first commit(master)
 first commit(new_branch)
+second commit(new_branch)
